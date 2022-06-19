@@ -1,6 +1,6 @@
 {
     "name": "Logic.Client",
-    "rootNamespace": "",
+    "rootNamespace": "Xori.SGE.Logic.Client",
     "references": [
         "GUID:1992e05ba61a8d84d8758a00ae93f5fd"
     ],
@@ -12,5 +12,5 @@
     "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
-    "noEngineReferences": true
+    "noEngineReferences": false
 }

@@ -1,6 +1,6 @@
 {
     "name": "Logic.Common",
-    "rootNamespace": "",
+    "rootNamespace": "Xori.SGE.Logic.Common",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
@@ -10,5 +10,5 @@
     "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
-    "noEngineReferences": true
+    "noEngineReferences": false
 }
