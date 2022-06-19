@@ -1,6 +1,6 @@
 {
     "name": "Presentation.Server",
-    "rootNamespace": "Xori.SGE.Presentation.Server",
+    "rootNamespace": "",
     "references": [
         "GUID:1cde72739a139454d87bb88246944ee9"
     ],

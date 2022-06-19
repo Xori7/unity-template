@@ -1,6 +1,6 @@
 {
     "name": "Logic.Common",
-    "rootNamespace": "Xori.SGE.Logic.Common",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
