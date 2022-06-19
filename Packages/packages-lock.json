@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.alchemybow.core": {
+      "version": "https://github.com/kempnymaciej/alchemy-core.git#v2.0.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "5eaeb26ccf9092b3bf98dd4521a9a51b7249862f"
+    },
     "com.unity.collab-proxy": {
       "version": "1.15.13",
       "depth": 0,
