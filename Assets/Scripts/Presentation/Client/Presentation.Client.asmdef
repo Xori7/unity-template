@@ -1,5 +1,5 @@
 {
-    "name": "Presentation",
+    "name": "Presentation.Client",
     "rootNamespace": "",
     "references": [
         "GUID:0c604b68db71271459cd21a8fb09c567"
